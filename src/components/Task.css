@@ -1,0 +1,13 @@
+.task {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.task button {
+    height: 40px;
+}
+
+.btn-task {
+    width: 70vw;
+}
